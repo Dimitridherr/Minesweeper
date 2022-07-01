@@ -1,4 +1,2 @@
 # CMPSC221Project
-Simple Minesweeper game
-
-A simple minesweeper game made as a final project for CMPSC 221: Object Oriented Programming with Web.
+A minesweeper game made as a final project for CMPSC 221: Object Oriented Programming. This was a part of a final project where a team of myself and two others had to make a final application to test what we learned. Our team decided to make a minesweeper game due to its rules being concrete and testable. Our collaboration involved regular meetings, testing, and a final document to outline our creation. 
